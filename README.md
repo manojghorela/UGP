@@ -6,7 +6,9 @@ How to run the files :-
 
 1) Install opencv
 
-2) Save files in the directory "/opencv/samples/python/" Or Instead of step 2 paste this file in the same directory as (facedetect.py) //your opencv will have a facedetect.py
+2) Save facedet.py in the directory "/opencv/samples/python/" 
+   Or 
+   Instead of step 2 paste this file in the same directory as (facedetect.py) //your opencv will have a facedetect.py
 
 3) Install openface from github
 
